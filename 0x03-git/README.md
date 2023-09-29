@@ -1,1 +1,1 @@
-git project root folder
+Updating git project root folder
